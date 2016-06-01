@@ -4,8 +4,6 @@
 
 `hr` prints a random ye olde horizontal rule. (Requires iTerm 3, or image-drawable terminal equivalent)
 
-By Mr Speaker  
-@mrspeaker
 
 ## Install:
 
