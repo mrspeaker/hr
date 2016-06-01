@@ -1,5 +1,7 @@
 # Horizontal Rulez
 
+`hr` prints a random ye olde <hr> image (Requires iTerm 3, or image-drawable terminal equivalent)
+
 By Mr Speaker  
 @mrspeaker
 
