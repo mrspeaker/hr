@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# hr: Horizontal Rulez
+# hr: Horizontal Rulez!
 # by Mr Speaker
 
 # tmux requires unrecognized OSC sequences to be wrapped with DCS tmux;

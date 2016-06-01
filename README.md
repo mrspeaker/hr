@@ -1,4 +1,4 @@
-# Horizontal Rulez
+# Horizontal Rulez!
 
 ![hr](https://cloud.githubusercontent.com/assets/129330/15721409/dfcdb810-2806-11e6-94d6-01634aa7288f.gif)
 
